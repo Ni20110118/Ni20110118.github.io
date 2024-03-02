@@ -81,7 +81,7 @@ gitalk:
   clientSecret: ffbc4c76e0c095321490e509311a4cb1889c8453
   repo: YueLuoBlog
   owner: Ni20110118
-  proxy: https://ni20110118.github.io/YueLuoBlog/
+  proxy: https://github.com/Ni20110118/YueLuoBlog
 
 # 输入Google Analytics web tracking code
 google_analytics:
