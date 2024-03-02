@@ -77,8 +77,8 @@ disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: 794780653c25bd225316
+  clientSecret: ffbc4c76e0c095321490e509311a4cb1889c8453
   repo: 
   owner: 
   proxy:
