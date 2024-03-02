@@ -81,6 +81,7 @@ gitalk:
   clientSecret: ffbc4c76e0c095321490e509311a4cb1889c8453
   repo: YueLuoBlog
   owner: Ni20110118
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
